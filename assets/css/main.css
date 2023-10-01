@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Arimo:wght@400;700&family=Open+San&family=Marck+Scripts&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arimo:wght@400;700&family=Open+San&family=Courgette&display=swap");
 .hero-section .hero-content .scroll-bottom, .feature-section .single-feature .icon, .box-style .icon, .footer .widget-wrapper .footer-widget .socials li a {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -78,7 +78,7 @@ video {
 }
 
 h1{
-  font-family: 'Marck Script';
+  font-family: 'Courgette';
   font-weight: 700;
   margin: 0px;
   color: #162447;
