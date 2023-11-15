@@ -654,7 +654,7 @@ p {
 }
 
 .navbar-brand img {
-  max-width: 100px;
+  max-width: 200px;
 }
 
 .navbar-toggler {
@@ -1861,7 +1861,7 @@ a {
 }
 .navbar .navbar-brand img {
   transition: all .3s ease-out;
-  height: 100px;
+  height: 200px;
 }
 .sticky .navbar .navbar-brand img {
   height: 50px;
